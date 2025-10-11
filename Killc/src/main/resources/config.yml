@@ -1,0 +1,4 @@
+# KillC Plugin Configuration
+enabled: true
+# killc.others - Allow killing other players (ops have this by default)
+# killc.reload - Allow reloading the plugin configuration (ops have this by default)
